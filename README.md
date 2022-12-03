@@ -1,2 +1,2 @@
-# genies-wrath
-Genie's Wrath item macro for Eldritch Blast spell in Foundry VTT
+# foundry-macros
+A collection of JS macros for Foundry VTT
