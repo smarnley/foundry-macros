@@ -8,8 +8,8 @@
      Enable Workflow Settings -> Misc -> Add item on use macro to sheet
    Edit Actor's Eldritch Blast Spell
      Add this macro to the Eldritch Blast spell item macro
-     Details tab:
-       Midi Qol Fields -> Add (+) "On Use Macros"
+     Midi-QoL tab:
+       Add (+) "On Use Macros"
        ItemMacro.EldritchBlast -> return a damage bonus
    */
 
